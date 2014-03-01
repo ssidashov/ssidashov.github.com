@@ -1,0 +1,43 @@
+.search-filter {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#productTitleFilterField {
+    width: 100%;
+}
+
+#productCategoryFilterField {
+    width: 100%;
+}
+
+#priceFromFilterField {
+    width: 100pt;
+    float: left;
+}
+
+#priceToFilterField {
+    width: 100pt;
+    float: right;
+}
+#sliderDiv {
+    width: 200px;
+}
+#findBtn {
+    width: 200px;
+}
+
+#filterDiv{
+    margin-bottom: 20px;
+}
+
+.seach-item-detail{
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+#searchDiv{
+    display: none;
+}
